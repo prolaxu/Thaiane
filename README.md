@@ -1,3 +1,23 @@
+
+
+
+# <img src="https://avatars.githubusercontent.com/u/107875962?s=200&v=4" width="30"> NepicSoft <img src="https://i.pinimg.com/originals/7f/84/6b/7f846b34330552e00b7be949071086d2.gif" width="25"> 
+<p align="center">
+  <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e472qr4oq1uns8ty47faq1i528gdkiktmalcwnssttc&rid=giphy.gif&ct=g" >
+</p>
+<p>
+    <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> We are a software company based in Kathmandu, Nepal 🇳🇵 the country of 
+    Mt.Everest.We are a motivated and passionate team of developers and 
+    designers who love to create beautiful and functional websites and mobile
+    applications.
+  </p>
+## Our tools
+- Laravel
+- vue
+- rect
+- rect
+
+
 <h2> Hi, I'm Thai Braga! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em>Software Enginner at <a href="http://www.unb.br">University of Brasilia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
